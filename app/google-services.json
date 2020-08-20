@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63033667254",
+    "firebase_url": "https://whatsapp-7e629.firebaseio.com",
+    "project_id": "whatsapp-7e629",
+    "storage_bucket": "whatsapp-7e629.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63033667254:android:2d08a9b645f30666f2c017",
+        "android_client_info": {
+          "package_name": "com.beastinsidehp.ringerchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63033667254-o8jehk3p2pleujh6mbnf5guo067dm7q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8u3ErBKFoOBL3sFqjSN82XLnN6KUR5uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63033667254-o8jehk3p2pleujh6mbnf5guo067dm7q2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
